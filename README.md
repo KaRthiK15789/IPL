@@ -1,11 +1,11 @@
-# IPL
+# IPL T20 Live Dashboard
 
-## Feel free to delete this file and replace it with your own content.
+A fullstack web application that displays live IPL (Indian Premier League) T20 cricket data including live matches, upcoming fixtures, points table, and complete match schedule.
 
-## Repository Initialization Notice
+## Features
 
-This repository was automatically initialized by the Bolt to GitHub extension.
+- **Live Match**: Real-time updates of ongoing matches with detailed statistics
+- **Upcoming Matches**: View the next scheduled matches
+- **Points Table**: Complete standings with team statistics
+- **Full Schedule**: Comprehensive match schedule with filtering options
 
-**Auto-Generated Repository**
-- Created to ensure a valid Git repository structure
-- Serves as an initial commit point for your project
